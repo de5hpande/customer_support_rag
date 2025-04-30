@@ -1,0 +1,26 @@
+[ 2025-04-30 20:22:32,294 ] 22 rag.model_loaders.model_loader - INFO - Loading config from config\config.yaml
+[ 2025-04-30 20:22:32,296 ] 28 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-04-30 20:22:32,297 ] 28 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-04-30 20:22:32,297 ] 22 rag.model_loaders.model_loader - INFO - Loading config from config\config.yaml
+[ 2025-04-30 20:22:32,299 ] 28 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-04-30 20:22:32,300 ] 45 rag.model_loaders.model_loader - INFO - Loading Hugging Face embedding model...
+[ 2025-04-30 20:22:41,915 ] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[ 2025-04-30 20:22:41,915 ] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[ 2025-04-30 20:22:45,299 ] 49 rag.model_loaders.model_loader - INFO - Embedding model sentence-transformers/all-MiniLM-L6-v2 loaded successfully
+[ 2025-04-30 20:22:55,184 ] 60 rag.model_loaders.model_loader - INFO - Loading LLM from Groq...
+[ 2025-04-30 20:22:57,344 ] 64 rag.model_loaders.model_loader - INFO - LLM Gemma2-9b-It loaded successfully
+[ 2025-04-30 20:22:59,580 ] 60 rag.model_loaders.model_loader - INFO - Loading LLM from Groq...
+[ 2025-04-30 20:23:00,337 ] 64 rag.model_loaders.model_loader - INFO - LLM Gemma2-9b-It loaded successfully
+[ 2025-04-30 20:23:02,783 ] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2025-04-30 20:23:19,255 ] 60 rag.model_loaders.model_loader - INFO - Loading LLM from Groq...
+[ 2025-04-30 20:23:20,004 ] 64 rag.model_loaders.model_loader - INFO - LLM Gemma2-9b-It loaded successfully
+[ 2025-04-30 20:23:20,005 ] 60 rag.model_loaders.model_loader - INFO - Loading LLM from Groq...
+[ 2025-04-30 20:23:20,713 ] 64 rag.model_loaders.model_loader - INFO - LLM Gemma2-9b-It loaded successfully
+[ 2025-04-30 20:23:21,188 ] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2025-04-30 20:23:21,875 ] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2025-04-30 20:23:34,500 ] 60 rag.model_loaders.model_loader - INFO - Loading LLM from Groq...
+[ 2025-04-30 20:23:35,278 ] 64 rag.model_loaders.model_loader - INFO - LLM Gemma2-9b-It loaded successfully
+[ 2025-04-30 20:23:35,279 ] 60 rag.model_loaders.model_loader - INFO - Loading LLM from Groq...
+[ 2025-04-30 20:23:36,043 ] 64 rag.model_loaders.model_loader - INFO - LLM Gemma2-9b-It loaded successfully
+[ 2025-04-30 20:23:36,440 ] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2025-04-30 20:23:37,228 ] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

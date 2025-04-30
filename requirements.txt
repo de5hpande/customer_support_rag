@@ -1,0 +1,16 @@
+pandas
+fastapi 
+uvicorn 
+python-multipart
+jinja2
+python-dotenv 
+langchain 
+langchain_core 
+ipykernel
+langchain_huggingface
+langchain_pinecone
+langchain_groq
+python-box
+pyYAML
+ensure
+# -e .

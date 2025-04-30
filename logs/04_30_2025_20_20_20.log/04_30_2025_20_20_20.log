@@ -1,0 +1,9 @@
+[ 2025-04-30 20:20:26,234 ] 22 rag.model_loaders.model_loader - INFO - Loading config from config\config.yaml
+[ 2025-04-30 20:20:26,243 ] 28 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-04-30 20:20:26,247 ] 28 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-04-30 20:20:26,247 ] 22 rag.model_loaders.model_loader - INFO - Loading config from config\config.yaml
+[ 2025-04-30 20:20:26,248 ] 28 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-04-30 20:20:26,249 ] 45 rag.model_loaders.model_loader - INFO - Loading Hugging Face embedding model...
+[ 2025-04-30 20:21:38,585 ] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[ 2025-04-30 20:21:38,585 ] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[ 2025-04-30 20:21:42,629 ] 49 rag.model_loaders.model_loader - INFO - Embedding model sentence-transformers/all-MiniLM-L6-v2 loaded successfully

@@ -1,0 +1,16 @@
+Model_loader:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  llm_model_name: "Gemma2-9b-It"
+
+data_ingestion:
+  index_name: "customersupport"
+  dimenstion: 384
+  metric: "cosine"
+  cloud: "aws"
+  region: "us-east-1"
+  status: "ready"
+  top_k: 5
+  
+
+
+
