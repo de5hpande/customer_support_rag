@@ -140,7 +140,3 @@ Access the web interface at: http://localhost:8001
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Contact
-
-For any questions or support, please reach out to [your-email@example.com](mailto:your-email@example.com).
